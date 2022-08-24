@@ -1,4 +1,3 @@
-from click import password_option
 from market import db
 
 class User(db.Model):
